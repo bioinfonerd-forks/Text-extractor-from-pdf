@@ -10,7 +10,8 @@ pip install pdf2image
 # Extraction:
 clone or download my repo
 
-cd pdf-to text
+cd Text-extractor-from-pdf
+
 
 run python extract.py
 
