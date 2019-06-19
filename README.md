@@ -11,10 +11,14 @@ Required Packages:
 Installing Packages:
 
 pdf2image:
+
+
 	--> sudo apt install poppler-utils
 	--> pip install pdf2image
 
 pytesseract:
+
+
 	-->pip install pytesseract   
 		(or)
 	-->pip install -U git+https://github.com/madmaze/pytesseract.git
