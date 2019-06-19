@@ -1,3 +1,4 @@
+##Text extractor from pdf##
 Required Packages:
 	
 	-->  python 3.x
