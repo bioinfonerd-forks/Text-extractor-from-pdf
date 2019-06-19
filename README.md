@@ -1,4 +1,4 @@
-##Text extractor from pdf##
+#Text extractor from pdf#
 
 
 Required Packages:
